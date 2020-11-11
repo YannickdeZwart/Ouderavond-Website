@@ -81,7 +81,7 @@ footer {
     float: left;
     margin-top: 125px;
     text-align: center;
-    margin-left: 16.5%;
+    margin-left: 22.5%;
 }
 .contact-info {
     float: left;
@@ -388,15 +388,16 @@ span a {
     width: 100%;
     display: inline;
     padding: 20px 0px;
+    color: white;
 }
 .table-omschrijving {
-    margin-left: 130px;
+    margin-left: 135px;
 }
 .table-start {
-    margin-left: 575px;
+    margin-left: 595px;
 }
 .table-einde {
-    margin-left: 200px;
+    margin-left: 210px;
 }
 .head-topper {
     padding: 10px 0px;
